@@ -26,7 +26,7 @@ This project demonstrates:
 2. Create and activate a virtual environment
 3. Install dependencies
 4. pip install -r requirements.txt
-5. Create a .env file in the root directory with:
+5. Copy .env.example to .env and update the values:
       INSTA_USERNAME=your_instagram_username
       INSTA_PASSWORD=your_instagram_password
 6. Run the script python main.py
